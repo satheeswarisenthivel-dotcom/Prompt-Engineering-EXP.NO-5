@@ -14,3 +14,5 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 
 RESULT: 
+The experiment demonstrated that structured (basic) prompts yield significantly better quality, accuracy, and depth in responses compared to naïve prompts.
+Hence, prompt clarity and specificity play a crucial role in obtaining reliable and meaningful outputs from AI models.
